@@ -6,8 +6,8 @@
         100,
        4 50
       ],
-      "tensorPath": "",
-      "metadataPath": ""
+      "tensorPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/treaty_vectors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/treaty_metadata.tsv"
     }
   ]
 }
