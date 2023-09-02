@@ -4,7 +4,7 @@
       "tensorName": "TAP",
       "tensorShape": [
         100,
-       4 50
+       450
       ],
       "tensorPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/treaty_vectors.tsv",
       "metadataPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/treaty_metadata.tsv"
