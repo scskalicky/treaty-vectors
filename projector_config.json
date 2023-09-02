@@ -3,8 +3,8 @@
     {
       "tensorName": "TAP",
       "tensorShape": [
-        100,
-       450
+        450, 
+       100
       ],
       "tensorPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/treaty_vectors.tsv",
       "metadataPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/treaty_metadata.tsv"
