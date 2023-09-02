@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "TAP",
+      "tensorShape": [
+        100,
+       4 50
+      ],
+      "tensorPath": "",
+      "metadataPath": ""
+    }
+  ]
+}
