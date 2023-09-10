@@ -3,7 +3,7 @@
     {
       "tensorName": "English Treaties Only - All Treaties",
       "tensorShape": [
-        450, 
+        424, 
        100
       ],
       "tensorPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/treaty_vectors.tsv",
