@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "TAP",
+      "tensorName": "English Treaties Only - All Treaties",
       "tensorShape": [
         450, 
        100
