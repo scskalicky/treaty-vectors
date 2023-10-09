@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "English Treaties Only - Treaty Full Texts",
+      "tensorName": "treaties - full texts - all",
       "tensorShape": [
         424, 
        100
@@ -10,9 +10,28 @@
       "metadataPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/treaty_metadata.tsv"
     }, 
 
-    {"tensorName": "English Treaties Only - Treaty Chapters",
+    {
+      "tensorName": "treaties - full texts - 21st century",
+      "tensorShape": [
+        208, 
+       100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/treaty_vectors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/treaty_metadata.tsv"
+
+    },
+
+    {"tensorName": "treaties - chapters - all",
     "tensorShape": [
-      3991, 100
+      3989, 100
+    ],
+    "tensorPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/chapter_vectors.tsv",
+    "metadataPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/chapter_metadata.tsv"
+    },
+    
+    {"tensorName": "treaties - chapters - 21st century",
+    "tensorShape": [
+      2822, 100
     ],
     "tensorPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/chapter_vectors.tsv",
     "metadataPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/chapter_metadata.tsv"
