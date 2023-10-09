@@ -16,8 +16,8 @@
         208, 
        100
       ],
-      "tensorPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/treaty_vectors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/treaty_metadata.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/tfc_treaty_vectors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/tfc_treaty_metadata.tsv"
 
     },
 
@@ -26,15 +26,15 @@
       3989, 100
     ],
     "tensorPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/chapter_vectors.tsv",
-    "metadataPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/chapter_metadata.tsv"
+    "metadataPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/full_chapter_metadata.tsv"
     },
     
     {"tensorName": "treaties - chapters - 21st century",
     "tensorShape": [
       2822, 100
     ],
-    "tensorPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/chapter_vectors.tsv",
-    "metadataPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/chapter_metadata.tsv"
+    "tensorPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/tfc_chapter_vectors.tsv",
+    "metadataPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/tfc_chapter_metadata.tsv"
     }
   ]
 }
