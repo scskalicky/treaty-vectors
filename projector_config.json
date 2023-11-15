@@ -21,7 +21,7 @@
 
     },
 
-    {"tensorName": "treaties - chapters - all",
+    {"tensorName": "chapters - all ",
     "tensorShape": [
       3989, 100
     ],
@@ -29,7 +29,7 @@
     "metadataPath": "https://raw.githubusercontent.com/scskalicky/treaty-vectors/main/full_chapter_metadata.tsv"
     },
     
-    {"tensorName": "treaties - chapters - 21st century",
+    {"tensorName": "chapters - 21st century",
     "tensorShape": [
       2822, 100
     ],
